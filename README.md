@@ -1,4 +1,4 @@
-# android-simple-test-demo
+# android-simple-test-dem
 
 Simple Android App used for Demonstrating Testing. 
 See our [Android Testing Guide](https://github.com/thecodepath/android_guides/wiki/Android-Unit-and-Integration-Testing).
